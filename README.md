@@ -51,13 +51,21 @@ The delegation mechanism thus ensures that most assets will participate in the c
 
 ## References:
 Beikverdi, A., & Song, J. (2015). Trend of centralization in Bitcoin’s distributed network. In Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD), 2015 16th IEEE/ACIS International Conference on (pp. 1–6). IEEE.
+
 Chen, L., Xu, L., Gao, Z., Lu, Y., & Shi, W. (2018). Protecting Early Stage Proof-of-Work Based Public Blockchain. In 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W) (pp. 122–127). IEEE.
+
 Conte de Leon, D., Stalick, A. Q., Jillepalli, A. A., Haney, M. A., & Sheldon, F. T. (2017). Blockchain: properties and misconceptions. Asia Pacific Journal of Innovation and Entrepreneurship, 11(3), 286–300.
+
 Kano, Y., & Nakajima, T. (2017). A New Approach to Mining Work in Blockchain Technologies. In Proceedings of the 15th International Conference on Advances in Mobile Computing & Multimedia (pp. 107–114). ACM.
+
 Kano, Y., & Nakajima, T. (2018). A novel approach to solve a mining work centralization problem in blockchain technologies. International Journal of Pervasive Computing and Communications, 14(1), 15–32.
+
 Li, X., Jiang, P., Chen, T., Luo, X., & Wen, Q. (2017). A survey on the security of blockchain systems. Future Generation Computer Systems.
+
 Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system.
+
 Viriyasitavat, W., & Hoonsopon, D. (2018). Blockchain characteristics and consensus in modern business processes. Journal of Industrial Information Integration.
+
 Zheng, Z., Xie, S., Dai, H., Chen, X., & Wang, H. (2017). An overview of blockchain technology: Architecture, consensus, and future trends. In Big Data (BigData Congress), 2017 IEEE International Congress on (pp. 557–564). IEEE.
 
 
