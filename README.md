@@ -27,7 +27,7 @@ This is because, as elucidated by (CONTE DE LEON, STALICK, JILLEPALLI, HANEY, & 
 
 However, as explained in (KANO & NAKAJIMA, 2018) ,  having 51% control of the network creates the possibility of double spending by block alteration. Imagine a chain A, in which user i sends 1 bitcoin to user j. After j has confirmed payment receipt when the block has been confirmed, the 51% unites to create a chain B in which user i used the same funds to pay for something else. Since chain B will have more hashing power, it will be recognized and accepted by the nodes, effectively letting user i spend his money two times, although in the blockchain registry it has only been spent once. Nevertheless, as previously described, the older a block is, the safer it is from alteration by a 51% attack.
 
-![Demonstration of a 51% attack](/graphics/51%AttackExplanation.png)
+![Demonstration of a 51% attack](/graphics/51AttackExplanation.png)
 *Demonstration of how a 51% attack occurs. After j confirms i's payment of 1 Bitcoin, the 51% uses their greater hash power to create a longer chain which will be recognized by other nodes, perpetuating an alternative transaction, effectively letting i double-spend his funds.*
 
 Similar problems arise in Stake systems. Consider transactions x and y. Both spend the same funds, but transaction x was broadcasted first. Although theoretically x is the transaction that should be included in the block, the 51% can vote for transaction y’s confirmation, altering the ideal functioning of the system.
